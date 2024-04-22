@@ -35,6 +35,9 @@ class Gallery {
     }
     
     getRandomCivil() {
+        
+        console.log(`"plane":${this.civilImages[0]}`)
+       
     }
     
     getRandomMilitary() {
